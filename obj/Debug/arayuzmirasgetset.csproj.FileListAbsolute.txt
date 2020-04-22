@@ -1,0 +1,6 @@
+C:\Users\ekkoe\source\repos\arayuzmirasgetset\bin\Debug\arayuzmirasgetset.exe.config
+C:\Users\ekkoe\source\repos\arayuzmirasgetset\bin\Debug\arayuzmirasgetset.exe
+C:\Users\ekkoe\source\repos\arayuzmirasgetset\bin\Debug\arayuzmirasgetset.pdb
+C:\Users\ekkoe\source\repos\arayuzmirasgetset\obj\Debug\arayuzmirasgetset.csprojAssemblyReference.cache
+C:\Users\ekkoe\source\repos\arayuzmirasgetset\obj\Debug\arayuzmirasgetset.exe
+C:\Users\ekkoe\source\repos\arayuzmirasgetset\obj\Debug\arayuzmirasgetset.pdb
